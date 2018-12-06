@@ -1,0 +1,14 @@
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\bin\Debug\VB189-0 T1.exe.config
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\bin\Debug\VB189-0 T1.exe
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\bin\Debug\VB189-0 T1.pdb
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\bin\Debug\VB189-0 T1.xml
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189-0 T1.vbprojAssemblyReference.cache
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189_0_T1.Test1.resources
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189_0_T1.Resources.resources
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189-0 T1.vbproj.GenerateResource.cache
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189-0 T1.vbproj.CoreCompileInputs.cache
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189-0 T1.exe
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189-0 T1.xml
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189-0 T1.pdb
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189_0_T1.VB_Test_2.resources
+D:\A1 Sittikon\VB189-0 T1\VB189-0 T1\obj\Debug\VB189_0_T1.VB_ATest1.resources
